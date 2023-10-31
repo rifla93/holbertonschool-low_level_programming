@@ -1,7 +1,8 @@
 #include "main.h"
 /**
- * factorial(int n) - function that returns the factorial of a given number
+ * factorial- function calculates the factorial number using recursion
  *@n: the given number
+* Return: n* (n-1) if its more than zero
 */
 
 int factorial(int n)
